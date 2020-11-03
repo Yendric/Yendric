@@ -1,8 +1,6 @@
-# My old websites
-In this repository I store the websites that I made when I just started working with HTML.
-At the time I was about 8 years old.
-It's not that interesting, but here you go:
+### Hi there 👋
 
-- Searchplay: https://yendric.github.io/SearchPlay/
-- YVR-ONLINE: https://yendric.github.io/YVR-ONLINE/
-- TCF: https://yendric.github.io/TheComputerFriends
+- 🔭 I’m currently working on web development & cyber-security
+- 🌱 I’m currently learning C-based languages
+- 📫 How to reach me: yendricvanroey@gmail.com
+- 🌐 My Website: https://yendric.be
